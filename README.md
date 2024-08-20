@@ -1,7 +1,7 @@
 # RAG_based_pdf_qna
 
 
-![Alt text](image_url)
+![Alt text](https://github.com/priyanksonis/RAG_based_pdf_qna/blob/main/architecture.JPG)
 
 This is the link to the colab notebook:
 
