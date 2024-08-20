@@ -1,5 +1,8 @@
 # RAG_based_pdf_qna
 
+
+![Alt text](image_url)
+
 This is the link to the colab notebook:
 
 https://colab.research.google.com/drive/1WfZcRtnuYPERMYlyH7-vOQZ14Pt9wV-T?usp=sharing
