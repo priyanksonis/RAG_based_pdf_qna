@@ -3,6 +3,10 @@
 
 ![Alt text](https://github.com/priyanksonis/RAG_based_pdf_qna/blob/main/architecture.JPG)
 
+Embedding Model: all-MiniLM-L6-v2  <br /> 
+Vector Database: FAISS  <br /> 
+Generative Model: t5-large 
+
 This is the link to the colab notebook:
 
 https://colab.research.google.com/drive/1WfZcRtnuYPERMYlyH7-vOQZ14Pt9wV-T?usp=sharing
